@@ -39,6 +39,7 @@ body {
 #apresentacao li {
     text-align: center;
     padding: 10px;
+    font-size: 12px;
 }
 
 #apresentacao li:hover {
