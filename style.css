@@ -82,6 +82,7 @@ body {
 
 #tecnologias h2 {
     text-align: center;
+    text-decoration: underline;
     padding: 10px;
 }
 
@@ -118,6 +119,7 @@ body {
 
 #projetos h2 {
     text-align: center;
+    text-decoration: underline;
     padding: 10px;
 }
 
